@@ -22,7 +22,7 @@ Three main characteristics: **height** (_Short_ - 'S', or _Tall_ - 'T'), **hair 
 
 E.g.
 
-![feedback-format](https://raw.githubusercontent.com/nickangmc/comp30020-proj-1/master/images/feedback-format.png)
+![feedback-format](https://github.com/nickangmc/culprits-guessing-game/blob/master/readme-images/feedback-format.png)
 
 
 ### Challenges Required:
